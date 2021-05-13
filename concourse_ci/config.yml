@@ -1,8 +1,8 @@
 # Docker
-docker-hub-email: himanshu.chaudhary@knoldus.com
-docker-hub-username: himanshuchaudhary
-docker-hub-password: himanshu123@A
-docker-hub-repo-name: concourse
+docker-hub-email: <<DOCKERHUB EMAIL>>
+docker-hub-username: <<DOCKERHUB USERNAME>>
+docker-hub-password: <<DOCKERHUB PASSWORD>>
+docker-hub-repo-name: <<DOCKERHUB REPO>>
 
 # Kubernetes
 server: <<API SERVER URI>>
